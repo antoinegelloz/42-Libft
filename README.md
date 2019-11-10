@@ -1,5 +1,5 @@
 # libft
-*Re-coder des fonctions essentielles de la librairie C standard utilisées dans les projets suivants*
+*Premier projet de 42, où nous devons re-coder des fonctions essentielles de la librairie C standard utilisées dans les projets suivants*
 
 Ces fonctions servent de base pour les projets C suivants du cursus 42 car la librairie standard C est interdite.
 
