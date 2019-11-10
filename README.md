@@ -1,4 +1,4 @@
-# libft
+# Libft
 Pour ce premier projet à 42, il faut re-coder des fonctions essentielles de la librairie C standard et d'autres utilitaires ajoutées au cours du cursus.
 Ces fonctions servent de base pour les projets C suivants car la librairie standard C est interdite.
 
