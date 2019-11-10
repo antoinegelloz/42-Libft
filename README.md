@@ -1,7 +1,6 @@
 # libft
-Premier projet de 42, où nous devons re-coder des fonctions essentielles de la librairie C standard utilisées dans les projets suivants.
-
-Ces fonctions servent de base pour les projets C suivants du cursus 42 car la librairie standard C est interdite.
+Pour ce premier projet à 42, il faut re-coder des fonctions essentielles de la librairie C standard et d'autres utilitaires ajoutées au cours du cursus.
+Ces fonctions servent de base pour les projets C suivants car la librairie standard C est interdite.
 
 ## Partie 1
 ### Implémentation de fonctions de la lib C :
